@@ -1,11 +1,11 @@
-# Tom Nguyen
+# Tom Lê
 Senior Software Engineer
 
 📍 Vietnam  
-📧 tom.nguyen@email.com  
-📱 +84 xxx xxx xxx  
-🔗 LinkedIn: https://linkedin.com/in/tomnguyen  
-🔗 GitHub: https://github.com/tomnguyen  
+📧 dat.dev.0505@email.com  
+📱 +84 386 191 601
+🔗 LinkedIn: [Tom Lê](https://www.linkedin.com/in/tomleedev/)
+🔗 GitHub: [Tom Lê](https://github.com/datdev05)
 
 ---
 
