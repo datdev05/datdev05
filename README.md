@@ -1,10 +1,13 @@
 # Tom Lê
 Senior Software Engineer
 
-📍 Vietnam  
-📧 dat.dev.0505@gmail.com  
+📍 Vietnam
+📧 dat.dev.0505@gmail.com
+
 📱 +84 386 191 601
+
 🔗 LinkedIn: [Tom Lê](https://www.linkedin.com/in/tomleedev/)
+
 🔗 GitHub: [Tom Lê](https://github.com/datdev05)
 
 ---
