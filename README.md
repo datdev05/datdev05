@@ -70,19 +70,20 @@ May 2024 – Present
 
 ### Responsibilities
 
-- Designed and implemented **enterprise-scale web applications**
-- Developed backend services using **ASP.NET Core**
-- Built modern frontend applications with **Angular**
-- Developed cross-platform mobile applications using **Flutter**
-- Designed **system architecture** for high scalability
-- Managed **Docker container deployments**
-- Built **CI/CD pipelines** for automated testing and deployment
+- Designed and developed backend services using **.NET 8**, later upgraded to **.NET 10**
+- Built **Blazor WebAssembly applications** for admin and client portals
+- Developed **mobile applications using Flutter**
+- Designed **central authentication website deployed on Azure**
+- Implemented **Docker container deployment on Ubuntu VPS**
+- Built automated **CI/CD pipelines using GitHub Actions and GitHub Container Registry**
+- Integrated **Firebase push notifications** for mobile applications
+- Designed overall **system architecture for web, mobile, and backend services**
 
 ### Key Achievements
 
-- Improved system performance by **40% through optimized API architecture**
-- Reduced deployment time from **1 hour to 10 minutes** using CI/CD
-- Successfully delivered **multiple production systems**
+- Built a **centralized login system** allowing authentication across multiple systems
+- Implemented **automated deployment pipeline with Docker and GitHub Actions**
+- Designed scalable architecture supporting web and mobile applications
 
 ---
 
@@ -92,105 +93,121 @@ Feb 2022 – Jan 2024
 
 ### Responsibilities
 
-- Developed **RESTful APIs** using ASP.NET Core
-- Built frontend applications with **Angular**
-- Maintained and improved legacy enterprise systems
-- Integrated third-party APIs and services
-- Optimized database performance
+- Developed enterprise loyalty platform **AKC Loyalty**
+- Built frontend applications using **Angular**
+- Developed backend services using **.NET**
+- Migrated database from **SQL Server to MySQL**
+- Maintained and improved platform performance
+- Worked with **GitLab repository and team development workflow**
 
 ### Key Achievements
 
-- Refactored legacy codebase to improve **maintainability and performance**
-- Implemented caching strategies to reduce database load
-- Participated in **full software development lifecycle**
+- Participated in development of enterprise **loyalty platform ecosystem**
+- Improved database performance during migration
+- Maintained stable platform services
+
+---
+
+## Software Developer  
+GanNha Technology  
+Apr 2021 – Feb 2022
+
+### Responsibilities
+
+- Developed mobile applications using **Xamarin**
+- Built backend APIs using **.NET**
+- Worked with **Microsoft Azure cloud services**
+- Implemented system components using **Redis, RabbitMQ, and Blob Storage**
+
+### Contributions
+
+- Participated in development of **location-based application**
+- Implemented backend services supporting mobile platform
+
+---
+
+## Software Developer  
+IOT Software VN – Bien Hoa  
+Oct 2018 – Jan 2021
+
+### Responsibilities
+
+- Developed enterprise business systems using **ASP.NET MVC**
+- Built frontend interfaces using **AdminLTE, jQuery, and AJAX**
+- Implemented business logic using **SQL Server stored procedures**
+- Developed and maintained internal business platforms
+
+### Key Projects
+
+- **Debt Management System**
+- **Sales Management System (CRM)**
+- **Lottery Reward Management System**
+- **Warehouse and Product Management System**
+
+### Contributions
+
+- Implemented core business features
+- Built database logic using stored procedures
+- Developed system modules for enterprise clients
 
 ---
 
 # Key Projects
 
-## Identity Management System
+## Enterprise Identity System
 
-Enterprise authentication and authorization platform.
+Central authentication platform allowing users to log in once
+and access multiple internal systems.
 
 ### Technologies
-.NET Core, Angular, SQL Server, Docker
+.NET, Azure, Blazor WebAssembly, Docker
 
 ### Features
-- User authentication
-- Role-based access control (RBAC)
-- Permission management
-- JWT authentication
-- API security
 
-### Contributions
-- Designed system architecture
-- Implemented authentication services
-- Built admin management dashboard
+- Centralized login portal
+- Role-based access control
+- Multi-system authentication
+- Admin management dashboard
 
 ---
 
-## Mobile Business Application
+## Business Management Mobile Application
 
-Cross-platform mobile application for business operations.
+Mobile application supporting task management and scheduling.
 
 ### Technologies
-Flutter, REST API, PostgreSQL
+React Native, Firebase, OneSignal
 
 ### Features
-- Real-time data synchronization
-- Offline data storage
-- Secure authentication
-- Business reporting dashboard
 
-### Contributions
-- Designed mobile architecture
-- Developed major features
-- Integrated backend APIs
+- Meeting scheduling
+- Task assignment
+- Notification system
+- Work reporting
 
 ---
 
-## DevOps Deployment Platform
+## Enterprise Management Systems
 
-Automated deployment system for enterprise applications.
+Business software systems developed for internal enterprise usage.
+
+### Systems
+
+- Debt management system
+- Sales management system
+- Warehouse management system
+- Lottery reward management platform
 
 ### Technologies
-Docker, Linux, CI/CD
 
-### Features
-- Automated build and deployment
-- Containerized services
-- Environment configuration management
-
-### Contributions
-- Designed deployment pipeline
-- Configured Docker environments
-- Reduced deployment errors significantly
+ASP.NET MVC, SQL Server, jQuery, AdminLTE
 
 ---
 
 # Education
 
 Bachelor of Information Technology  
-University of Technology  
-2014 – 2018
-
----
-
-# Certifications
-
-Microsoft Azure Fundamentals (Optional)  
-Docker Essentials (Optional)
-
----
-
-# Open Source / Personal Projects (Optional)
-
-### Personal Portfolio Website
-- Built using modern web technologies
-- Showcases personal projects and experience
-
-### GitHub Projects
-https://github.com/tomnguyen
+Dong Nai Technology University
 
 ---
 
@@ -205,6 +222,5 @@ https://github.com/tomnguyen
 
 - Software Architecture
 - Cloud Computing
-- DevOps
-- Distributed Systems
-- Technology Research
+- System Design
+- DevOps and Infrastructure
