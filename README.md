@@ -32,16 +32,12 @@ and continuously learning modern technologies.
 
 ## Programming Languages
 - C#
-- JavaScript
-- TypeScript
-- Dart
 - SQL
 
 ## Frameworks & Technologies
 - .NET / ASP.NET Core
 - Angular
-- Flutter
-- Blazor
+- Blazor Wasm
 - RESTful API Development
 - Microservices Architecture
 
@@ -56,7 +52,6 @@ and continuously learning modern technologies.
 - SQL Server
 - PostgreSQL
 - MySQL
-- Redis (basic)
 
 ## Architecture & Practices
 - Clean Architecture
@@ -70,8 +65,8 @@ and continuously learning modern technologies.
 # Work Experience
 
 ## Senior Software Engineer
-ABC Technology Company  
-2022 – Present
+DP UNITY TECHNOLOGY CORPORATION
+May 2024 – Present
 
 ### Responsibilities
 
@@ -92,8 +87,8 @@ ABC Technology Company
 ---
 
 ## Software Developer
-XYZ Software Solutions  
-2018 – 2022
+Utop / AkaChain ecosystem (FSoft – AkaChain team 2022)
+Feb 2022 – Jan 2024
 
 ### Responsibilities
 
