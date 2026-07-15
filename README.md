@@ -130,8 +130,8 @@ Business systems for debt management, sales and CRM workflows, warehouse operati
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=datdev05&show_icons=true&theme=transparent&hide_border=true" alt="Tom's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datdev05&layout=compact&theme=transparent&hide_border=true" alt="Tom's most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=datdev05&theme=github_dark" alt="Tom's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datdev05&theme=github_dark" alt="Tom's repositories by language" />
 </p>
 
 ---
