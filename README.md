@@ -1,226 +1,142 @@
-# Tom Lê
-Senior Software Engineer
+<h1 align="center">Hi, I'm Tom Lê 👋</h1>
 
-📍 Vietnam
-📧 dat.dev.0505@gmail.com
+<h3 align="center">Senior Software Engineer · Backend & Full-Stack Developer · System Builder</h3>
 
-📱 +84 386 191 601
+<p align="center">
+  I build reliable enterprise applications, scalable backend services, and practical<br />
+  delivery pipelines using .NET, Angular, Blazor, Flutter, and modern DevOps practices.
+</p>
 
-🔗 LinkedIn: [Tom Lê](https://www.linkedin.com/in/tomleedev/)
+<p align="center">
+  <a href="mailto:dat.dev.0505@gmail.com"><img src="https://img.shields.io/badge/Email-dat.dev.0505%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/tomleedev/"><img src="https://img.shields.io/badge/LinkedIn-Tom_Lê-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/datdev05"><img src="https://img.shields.io/badge/GitHub-datdev05-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-🔗 GitHub: [Tom Lê](https://github.com/datdev05)
+## About me
 
----
+- 🇻🇳 Based in Vietnam
+- 💼 7+ years of experience building web, mobile, and enterprise software
+- 🧩 Focused on .NET backend development, system architecture, and maintainable code
+- 🚀 Experienced with containerized deployments and automated CI/CD pipelines
+- 🔐 Built identity and access solutions used across multiple systems
+- 📚 Continuously learning about distributed systems, cloud architecture, and DevOps
 
-# Professional Summary
+## Technology stack
 
-Senior Software Engineer with **7+ years of experience** designing and developing 
-scalable web and mobile applications.
+### Backend and architecture
 
-Strong background in **.NET ecosystem, Angular, and Flutter**, with experience 
-in **system architecture, containerization, and CI/CD pipelines**.
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=icloud&logoColor=white)
 
-Experienced in building **enterprise systems, identity management solutions, 
-and cloud-ready applications**.
+Clean Architecture · SOLID · Design Patterns · Domain-Driven Design · Role-Based Access Control
 
-Passionate about improving system performance, designing maintainable architectures,
-and continuously learning modern technologies.
+### Web and mobile
 
----
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
-# Technical Skills
+### Data, cloud, and delivery
 
-## Programming Languages
-- C#
-- SQL
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Frameworks & Technologies
-- .NET / ASP.NET Core
-- Angular
-- Blazor Wasm
-- RESTful API Development
-- Microservices Architecture
+Also experienced with Nginx, RabbitMQ, Firebase, Azure Blob Storage, GitLab CI/CD, and GitHub Container Registry.
 
-## DevOps & Infrastructure
-- Docker
-- CI/CD Pipelines
-- Linux (Ubuntu Server)
-- Nginx
-- Git / GitHub / GitLab
+## What I work on
 
-## Databases
-- SQL Server
-- PostgreSQL
-- MySQL
+| Area | What I do |
+| --- | --- |
+| Backend engineering | Design APIs, business services, authentication flows, and data access layers with .NET |
+| System architecture | Structure maintainable web, mobile, and service-based applications |
+| Identity | Build centralized authentication and role-based access across multiple systems |
+| DevOps | Containerize applications and automate build and deployment workflows |
+| Web applications | Develop enterprise interfaces with Angular and Blazor WebAssembly |
+| Mobile applications | Deliver cross-platform applications with Flutter and Xamarin |
 
-## Architecture & Practices
-- Clean Architecture
-- SOLID Principles
-- Design Patterns
-- Domain Driven Design (basic)
-- Agile / Scrum
+## Selected projects
 
----
+### 🔐 Enterprise Identity System
 
-# Work Experience
+A centralized authentication platform that lets users sign in once and access multiple internal systems.
 
-## Senior Software Engineer
-DP UNITY TECHNOLOGY CORPORATION
-May 2024 – Present
+**Highlights:** centralized login portal, role-based access control, multi-system authentication, and an administration dashboard.
 
-### Responsibilities
+**Built with:** .NET · Azure · Blazor WebAssembly · Docker
 
-- Designed and developed backend services using **.NET 8**, later upgraded to **.NET 10**
-- Built **Blazor WebAssembly applications** for admin and client portals
-- Developed **mobile applications using Flutter**
-- Designed **central authentication website deployed on Azure**
-- Implemented **Docker container deployment on Ubuntu VPS**
-- Built automated **CI/CD pipelines using GitHub Actions and GitHub Container Registry**
-- Integrated **Firebase push notifications** for mobile applications
-- Designed overall **system architecture for web, mobile, and backend services**
+### 📱 Business Management Mobile Application
 
-### Key Achievements
+A mobile application supporting everyday business operations such as meeting scheduling, task assignment, notifications, and work reporting.
 
-- Built a **centralized login system** allowing authentication across multiple systems
-- Implemented **automated deployment pipeline with Docker and GitHub Actions**
-- Designed scalable architecture supporting web and mobile applications
+**Built with:** React Native · Firebase · OneSignal
 
----
+### 🏢 Enterprise Management Platforms
 
-## Software Developer
-Utop / AkaChain ecosystem (FSoft – AkaChain team 2022)
-Feb 2022 – Jan 2024
+Business systems for debt management, sales and CRM workflows, warehouse operations, product management, and lottery rewards.
 
-### Responsibilities
+**Built with:** ASP.NET MVC · SQL Server · jQuery · AJAX · AdminLTE
 
-- Developed enterprise loyalty platform **AKC Loyalty**
-- Built frontend applications using **Angular**
-- Developed backend services using **.NET**
-- Migrated database from **SQL Server to MySQL**
-- Maintained and improved platform performance
-- Worked with **GitLab repository and team development workflow**
+## Experience
 
-### Key Achievements
+### Senior Software Engineer · DP UNITY TECHNOLOGY CORPORATION
+`May 2024 – Present`
 
-- Participated in development of enterprise **loyalty platform ecosystem**
-- Improved database performance during migration
-- Maintained stable platform services
+- Design and develop backend services with modern .NET
+- Build Blazor WebAssembly portals and Flutter mobile applications
+- Design a central authentication website deployed on Azure
+- Deploy containerized services to Ubuntu infrastructure with Docker and Nginx
+- Automate delivery using GitHub Actions and GitHub Container Registry
+- Integrate Firebase push notifications and shape architecture across web, mobile, and backend systems
 
----
+### Software Developer · Utop / AkaChain ecosystem
+`February 2022 – January 2024`
 
-## Software Developer  
-GanNha Technology  
-Apr 2021 – Feb 2022
+- Developed the AKC Loyalty enterprise platform with Angular and .NET
+- Migrated application data from SQL Server to MySQL
+- Improved database performance and maintained stable platform services
+- Collaborated through GitLab-based team development workflows
 
-### Responsibilities
+### Software Developer · GanNha Technology
+`April 2021 – February 2022`
 
-- Developed mobile applications using **Xamarin**
-- Built backend APIs using **.NET**
-- Worked with **Microsoft Azure cloud services**
-- Implemented system components using **Redis, RabbitMQ, and Blob Storage**
+- Developed Xamarin mobile applications and .NET backend APIs
+- Worked with Azure, Redis, RabbitMQ, and Blob Storage
+- Delivered backend services for a location-based mobile platform
 
-### Contributions
+### Software Developer · IOT Software VN
+`October 2018 – January 2021`
 
-- Participated in development of **location-based application**
-- Implemented backend services supporting mobile platform
+- Built enterprise systems with ASP.NET MVC, SQL Server, jQuery, AJAX, and AdminLTE
+- Implemented business logic through SQL Server stored procedures
+- Delivered modules for debt, sales, warehouse, product, and reward management
 
----
+## Education and languages
 
-## Software Developer  
-IOT Software VN – Bien Hoa  
-Oct 2018 – Jan 2021
+🎓 **Bachelor of Information Technology** — Dong Nai Technology University
 
-### Responsibilities
+🌏 **Vietnamese:** Native · **English:** Professional working proficiency
 
-- Developed enterprise business systems using **ASP.NET MVC**
-- Built frontend interfaces using **AdminLTE, jQuery, and AJAX**
-- Implemented business logic using **SQL Server stored procedures**
-- Developed and maintained internal business platforms
+## GitHub activity
 
-### Key Projects
-
-- **Debt Management System**
-- **Sales Management System (CRM)**
-- **Lottery Reward Management System**
-- **Warehouse and Product Management System**
-
-### Contributions
-
-- Implemented core business features
-- Built database logic using stored procedures
-- Developed system modules for enterprise clients
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=datdev05&show_icons=true&theme=transparent&hide_border=true" alt="Tom's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datdev05&layout=compact&theme=transparent&hide_border=true" alt="Tom's most used languages" />
+</p>
 
 ---
 
-# Key Projects
-
-## Enterprise Identity System
-
-Central authentication platform allowing users to log in once
-and access multiple internal systems.
-
-### Technologies
-.NET, Azure, Blazor WebAssembly, Docker
-
-### Features
-
-- Centralized login portal
-- Role-based access control
-- Multi-system authentication
-- Admin management dashboard
-
----
-
-## Business Management Mobile Application
-
-Mobile application supporting task management and scheduling.
-
-### Technologies
-React Native, Firebase, OneSignal
-
-### Features
-
-- Meeting scheduling
-- Task assignment
-- Notification system
-- Work reporting
-
----
-
-## Enterprise Management Systems
-
-Business software systems developed for internal enterprise usage.
-
-### Systems
-
-- Debt management system
-- Sales management system
-- Warehouse management system
-- Lottery reward management platform
-
-### Technologies
-
-ASP.NET MVC, SQL Server, jQuery, AdminLTE
-
----
-
-# Education
-
-Bachelor of Information Technology  
-Dong Nai Technology University
-
----
-
-# Languages
-
-- Vietnamese (Native)
-- English (Professional Working Proficiency)
-
----
-
-# Interests
-
-- Software Architecture
-- Cloud Computing
-- System Design
-- DevOps and Infrastructure
+<p align="center">
+  Interested in software architecture, cloud computing, system design, and dependable delivery.<br />
+  <strong>Let's build software that stays easy to understand as it grows.</strong>
+</p>
